@@ -1,3 +1,8 @@
+## GitHub Repository Structure
+
+- README.md – Project documentation  
+- detection_logic.ino – Core detection algorithm implementation  
+- app_flow.txt – System workflow explanation  
 # Smart Animal Safety System
 
 ## Problem Statement
