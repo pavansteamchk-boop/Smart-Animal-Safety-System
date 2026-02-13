@@ -1,0 +1,11 @@
+SMART ANIMAL SAFETY SYSTEM – APP FLOW
+
+1. Sensor detects abnormal condition
+2. Microcontroller verifies threshold breach
+3. GPS location fetched
+4. Alert sent to cloud database
+5. Nearest NGOs receive push notification
+6. NGO accepts case
+7. Rescue team dispatched
+8. Rescue status updated in system
+9. Data stored for analysis
