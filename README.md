@@ -44,3 +44,17 @@ Initially, the system generated false alerts due to low impact threshold values.
 - Intelligent threshold optimization
 - Distance-based NGO prioritization
 - Data analytics for animal injury trends
+## Audit 3 Update – System Enhancement
+
+### Enhancement 1: Distance-Based NGO Prioritization
+The system now calculates the approximate distance between the injured animal's GPS coordinates and registered NGOs using coordinate comparison logic. Alerts are prioritized based on nearest location to reduce rescue response time.
+
+### Enhancement 2: False Positive Reduction
+Detection thresholds were recalibrated after observing possible accidental impact triggers. Impact sensitivity and inactivity duration were optimized to improve alert accuracy.
+
+### Enhancement 3: Modular Code Structure
+The detection system has been structured into modular functions:
+- Sensor data reading
+- Condition evaluation
+- Alert triggering
+This improves readability and future scalability.
