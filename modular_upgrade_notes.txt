@@ -1,0 +1,8 @@
+MODULAR ARCHITECTURE UPDATE
+
+Detection Process Split Into:
+1. Sensor Reading Module
+2. Condition Evaluation Module
+3. Alert Trigger Module
+
+This separation improves debugging, scalability, and future integration of advanced analytics.
